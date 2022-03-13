@@ -2137,7 +2137,7 @@ input, select, textarea {
 		}
 
 			.image.avatar:before {
-				/* display: none; */
+				display: none;
 			}
 
 			.image.avatar img {
