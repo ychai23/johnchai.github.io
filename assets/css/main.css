@@ -2036,7 +2036,6 @@ input, select, textarea {
 		}
 
 /* Image */
-
 	.image {
 		border-radius: 0.35em;
 		border: 0;
@@ -2138,7 +2137,7 @@ input, select, textarea {
 		}
 
 			.image.avatar:before {
-				display: none;
+				/* display: none; */
 			}
 
 			.image.avatar img {
